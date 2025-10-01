@@ -1,0 +1,14 @@
+# ===== My own ignore files ===== #
+
+Resources/Temp/
+
+# ===== Visual Studio ignore files ===== #
+
+obj/
+bin/
+.vs/
+*.vcxproj
+*.user
+*.csproj
+
+# ====================================== #
