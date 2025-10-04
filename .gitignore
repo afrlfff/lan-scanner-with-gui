@@ -7,8 +7,6 @@ Resources/Temp/
 obj/
 bin/
 .vs/
-*.vcxproj
 *.user
-*.csproj
 
 # ====================================== #
